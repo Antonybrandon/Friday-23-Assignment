@@ -1,6 +1,6 @@
 # Friday-23-Assignment
 
-#### This is a landing page for a restaurant. It is created using html, css, twitter's bootstrap framework and javascript.
+#### This is a landing page for a restaurant. .
 
 #### By **Antony Brandon**
 
