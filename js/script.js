@@ -8,7 +8,7 @@ $(document).ready(function(){
 
 });
 
-//navbar fullscreen menu
+//navbar fureen menu
 function openNav() {
     document.getElementById("menunav").style.height = "100%";
 }
