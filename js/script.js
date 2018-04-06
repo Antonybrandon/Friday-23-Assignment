@@ -1,4 +1,4 @@
-//script to handle email subscription
+//script for email and subcription
 $(document).ready(function(){
 	$("#subscriber").submit(function(event){
 		var mail=$("#email").val();		

@@ -7,7 +7,7 @@
   /*Section-heading, navbar and logo */
   
   .section-heading {
-      background-image: url("../images/assets/backgrounds/landing.jpg");
+      background-image: url("../images/backgrounds/landing.jpg");
       background-size: cover;
       overflow: hidden;
       margin-left: -10%;
@@ -53,7 +53,7 @@
       right: 4px;
       font-size: 55px;
   }
-  
+/*   
   @media screen and (max-height: 450px) {
       .overlay {overflow-y: auto;}
       .overlay a {font-size: 20px}
@@ -63,7 +63,7 @@
       right: 36px;
       }
       .overlay a {font-size: 20px}
-  }
+  } */
   
   .menulines {
       z-index: 2;
@@ -146,19 +146,19 @@
   
   }
   #breakfast {
-      background-image: url("../images/assets/foodtop/breakfast.jpg");
+      background-image: url("../images/foodtop/breakfast.jpg");
       background-size: cover;
       padding: 100px;
   }
   
   #lunch {
-      background-image: url("../images/assets/foodtop/lunch.jpg");
+      background-image: url("../images/foodtop/lunch.jpg");
       background-size: cover;
       padding: 100px;
   }
   
   #dinner {
-      background-image: url("../images/assets/foodtop/dinner.jpg");
+      background-image: url("../images/foodtop/dinner.jpg");
       background-size: cover;
       padding: 100px;
   }
@@ -234,7 +234,7 @@
       margin-left: -10%;
       margin-right: -10%;
       text-align: center;
-      background-image: url("../images/assets/backgrounds/foodsBg.jpg");
+      background-image: url("../images/backgrounds/foodsBg.jpg");
       background-size: cover;
       background-attachment: scroll;
       background-clip: border-box;
@@ -256,10 +256,10 @@
       padding: 
       font-size: 20px;
       font-weight: bold;
-      
-  }
+    }  
   
-  .nav-tabs>.active {
+  
+.nav-tabs>.active {
       background-color: white;
       border-bottom: 0;
   }
@@ -382,7 +382,7 @@
   
   .section-subscribe {
       text-align: center;
-      background-image: url("../images/assets/backgrounds/subscribe.jpg");
+      background-image: url("../images/backgrounds/subscribe.jpg");
       background-size: cover;
       overflow: hidden;
       color: white;
