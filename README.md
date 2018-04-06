@@ -25,10 +25,10 @@ The landing page is divided into sections depending on the content presented;
 
 ### Live demo
 To view the page click the link below
-*
+*https://antonybrandon.github.io/Friday-23-Assignment/
 ## Setup/Installation 
 To use this landing page 
-* Git clone   or download and unzip the repository from github Account.
+* Git clone https://github.com/Antonybrandon/Friday-23-Assignment.git or download and unzip the repository from github Account.
 
 
 ## Known Bugs
